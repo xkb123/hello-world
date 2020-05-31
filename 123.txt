@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 tstttttttttttttttt
+=======
+
+>>>>>>> parent of 78c7825... 123
 不会讲诚信不经常吧
 bbbbbbbbbbbbb
